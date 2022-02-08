@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                // "/home/liuguangsheng/Linux_for_Tegra/kernel/linux-headers-4.9.253-tegra-ubuntu18.04_aarch64/kernel-4.9/include"
+                "/home/liuguangsheng/Linux_for_Tegra/kernel/linux-headers-4.9.253-tegra-linux_x86_64/kernel-4.9/include"
+            ],
+            "defines": [],
+            "compilerPath": "/opt/gcc-linaro/7.5.0/bin/aarch64-linux-gnu-gcc",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "gcc-arm64"
+        }
+    ],
+    "version": 4
+}
